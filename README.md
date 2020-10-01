@@ -1,4 +1,7 @@
 # SUMMER (Scott's Useful Most Minimum Essential Reset)
+
+A bare minimum CSS reset
+
 ```
 * { /** SUMMER (Scott's Useful Most Minimum Essential Reset) */
 	position: relative;
